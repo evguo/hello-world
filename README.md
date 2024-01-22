@@ -3,7 +3,7 @@ cogs 108 d1
 **bold**
 *italics*
 ***bold and italics***
-## biger
+## bigger
 ### biggest?
 ~~D1~~
 - [x] A1
