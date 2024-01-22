@@ -1,12 +1,22 @@
 # hello-world
+
 cogs 108 d1
+
 **bold**
+
 *italics*
+
 ***bold and italics***
-## bigger
-### biggest?
+
+## smaller
+
+### smallest
+
 ~~D1~~
+
 - [x] A1
 - [x] Q1
+
 love this! :joy:
-==COGS 108==
+
+highlight this ==COGS 108==.
